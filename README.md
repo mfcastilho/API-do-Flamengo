@@ -8,7 +8,7 @@
 
 
 ## Objetivo
-- Essa API tem como objetivo disponibilizar informações e dados históricos sobre o Clube de Regatas do Flamengo, dando acesso, tanto a informações, quanto a fotos e videos sobre o clube de maneira pública e gratuita.
+- Essa API tem como objetivo disponibilizar dados históricos sobre o Clube de Regatas do Flamengo, dando acesso, tanto a informações, quanto a fotos e videos sobre o clube de maneira pública e gratuita.
 
 ## Documentação
 - Link da Documentação: https://flamengo-api.cyclic.app/v1/api-docs/
