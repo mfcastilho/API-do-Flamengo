@@ -1,7 +1,9 @@
 # API do Flamengo
 
+<div align="center">
+  <img src="https://github.com/mfcastilho/API-do-Flamengo/blob/main/flamengo%20api.png">
+</div>
 
-  ![logo-projeto](https://github.com/mfcastilho/API-do-Flamengo/blob/main/flamengo%20api.png)
 
 
 ## Essa API tem como objetivo disponibilizar dados históricos sobre o Clube de Regatas do Flamengo, dando acesso, tanto a informações, quanto a fotos e videos sobre o clube de maneira pública e gratuita.
