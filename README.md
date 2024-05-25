@@ -32,7 +32,7 @@
 
 ## Documentação
 - Para conhecer mais detalhes de utilização das rotas, assim como seus parâmetros, recomenda-se ler a documentação.
-- Link da Documentação: https://flamengo-api.cyclic.app/v1/api-docs/
+- Link da Documentação: https://flamengo-api.onrender.com/v1/api-docs/
 
 ## Autor
 - Essa API foi desenvovida por Mario Frederico de Castilho
